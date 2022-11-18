@@ -1,4 +1,4 @@
-24ddb631dd18d3a2344b1e3aabd6feaf *DESCRIPTION
+b3b246484fc1fc3fa01a369a457fdac9 *DESCRIPTION
 3fa13a38ae44c31e77f2cad78ecd1d7c *LICENSE
 ff6d07b62cfddfe6e8c7533f47d82d8e *NAMESPACE
 18b84316b7b9eda35b3bac3b65c4e7f0 *R/alphaHulls.R
@@ -19,9 +19,9 @@ d3493cac500ab72f37d8b54d32d7a69a *R/utils-parallel.R
 cb6c939e50854deb02d8cc2bde66fa3e *R/wrappers.R
 7b6cc595b73dd778af13260dfdaaf89c *R/zzz.R
 d403d8c8267060b31c115dee44a04602 *README.md
-ce6dc06adb957b05861ee82900a13a93 *build/vignette.rds
-e68aab04d6fd9261090891d8b594d40e *inst/doc/occTest_PseudoVignette.Rmd
-84185ca4dcea7747d962ffed72a76d88 *inst/doc/occTest_PseudoVignette.html
+7e288f3168290e5f2a91ba2c60c16258 *build/vignette.rds
+3d9e6fd42f384427859714a53705b9d6 *inst/doc/occTest_PseudoVignette.Rmd
+5fa438edbc1e3764db9faebc662c5755 *inst/doc/occTest_PseudoVignette.html
 901b0f93ce73c4527a491217e232ec0d *inst/ext/AllEnv.tif
 9c4feab03cf632916a887fae0cba6923 *inst/ext/DEM.tif
 07ce3f2ad010754e8abd1659463c47ea *inst/ext/exSettings.rds
@@ -81,4 +81,4 @@ f1bb7afbc47ed29a1a1e84cf0d0f43c9 *man/setTestBlocks.Rd
 9a14e9a9f36ebce21748e2f422f6b6b8 *man/showTableNames.Rd
 0af813b3d899725e1dd614300f565c41 *man/showTests.Rd
 6e38d1d8dd8330b808b70e5d5c2cdcf3 *man/splitSpname.Rd
-e68aab04d6fd9261090891d8b594d40e *vignettes/occTest_PseudoVignette.Rmd
+3d9e6fd42f384427859714a53705b9d6 *vignettes/occTest_PseudoVignette.Rmd
